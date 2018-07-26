@@ -15,7 +15,7 @@
 
 
     <groupId>ru.yura</groupId>
-    <artifactId>HW01.1-maven</artifactId>
+    <artifactId>hw01</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
