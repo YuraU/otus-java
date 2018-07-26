@@ -62,7 +62,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>ru.otus.HW01.Main</mainClass>
+                            <mainClass>ru.yura.hw01.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
